@@ -1,0 +1,20 @@
+.home-container{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     
+}
+.homo-logos-container{
+    display: flex;
+    flex-wrap: wrap;
+     
+     
+}
+.img{
+    height: 200px;
+    width: 200px;
+    margin: 40px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;     
+}
